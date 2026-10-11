@@ -55,7 +55,7 @@ I put considerable effort into the frontend design for reasons beyond making the
 
 I designed the interface as an interactive journal inspired by the atmosphere of the game. I hope it makes the survey more appealing, but I have not yet measured whether the design affects participation rates or data quality.
 
-In the current version, the survey is available on desktop and laptop computers. Participation on phones and tablets is not supported. I made this decision to preserve the visual layout and keep the interactive elements consistent within the existing design. I recognise that this may limit who can participate, and I will take that into account when interpreting the results.
+The survey was designed around a 16:9 aspect ratio and is available on desktop computers, laptops, tablets and mobile phones. Although the interface adapts to different screen sizes, a larger screen is recommended for the best experience.
 
 ## 5. Data Collection and Record Management
 
@@ -189,8 +189,6 @@ There are several limitations I want to acknowledge from the outset.
 **Cross-sectional design:** Data is collected over a defined period. Associations between variables do not, by themselves, establish causation.
 
 **Themed interface:** The game-inspired design is intended to encourage participation, but it may appeal more to some groups of players than others. This could influence who takes part.
-
-**Device restrictions:** The lack of phone and tablet support may exclude players who would otherwise participate using only a mobile device.
 
 **Scope of the Honour Score:** The score is based on just four scenarios. It does not represent every decision a player makes or their actual Honour level in the game.
 

@@ -134,7 +134,7 @@ Details such as a pocket watch showing the actual system time, a calculated moon
 
 None of these features is necessary for collecting survey responses. I added them because I wanted the experience to feel like more than a form with a themed background.
 
-The current version of the survey is designed for desktop and laptop computers. Participation on phones and tablets is not supported.
+The survey was designed around a 16:9 aspect ratio and can also be used on mobile devices and tablets. A larger screen is recommended for the best experience.
 
 The design process, implementation choices, animations, screen management and technical problems will be covered in detail in **FRONTEND_REPORT.md**.
 

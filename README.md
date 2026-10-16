@@ -164,7 +164,7 @@ The current technical system has three main parts:
 
 **PostgreSQL:** The database where research records are stored, validated and, in some cases, calculated.
 
-The backend development process will be described in **BACKEND_REPORT.md**, while **ARCHITECTURE.md** will explain how the system works as a whole.
+The backend development process is described in **BACKEND_REPORT.md**. The planned data preparation and statistical analysis work is outlined in **METHODOLOGY.md** and will be documented in **DATA_ANALYSIS.md** as the research progresses.
 
 ## Data Quality and Participation Controls
 
@@ -242,7 +242,7 @@ I therefore see the project not as a completed statistical study, but as an inde
 
 ## Documentation
 
-I created this GitHub repository to document the research methods, design process and technical architecture behind the project.
+I created this GitHub repository to document the research methods, data collection system and analysis process behind the project.
 
 The repository contains the following documents:
 
@@ -252,7 +252,7 @@ The repository contains the following documents:
 | `METHODOLOGY.md` | Research design, data collection approach and planned analyses |
 | `docs/FRONTEND_REPORT.md` | Interface design, development process and technical decisions |
 | `docs/BACKEND_REPORT.md` | Server infrastructure, database and data validation |
-| `docs/ARCHITECTURE.md` | System components and how they work together |
+| `DATA_ANALYSIS.md` | Data preparation, statistical analyses and findings as the research progresses |
 
 This repository is not intended for sharing source code.
 
